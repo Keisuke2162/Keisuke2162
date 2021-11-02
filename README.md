@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Keisuke2162
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Swift, Dart, Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Keisuke2162/Keisuke2162 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Keisuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keisuke2162&show_icons=true&theme=cobalt))](https://github.com/anuraghazra/github-readme-stats)
